@@ -1,0 +1,5 @@
+# Claves privadas y datos locales: NUNCA al repositorio
+keys/
+recibido_*
+__pycache__/
+*.pyc
